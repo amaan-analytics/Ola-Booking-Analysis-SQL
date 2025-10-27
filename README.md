@@ -44,8 +44,7 @@ The report contains detailed SQL queries, insights, and interpretations.
 
 ## 🚀 Skills Demonstrated  
 
-- Data Cleaning & Filtering  
-- SQL Joins & Subqueries  
+- Data Cleaning & Filtering   
 - Aggregate & Window Functions  
 - Grouping, Sorting & Ranking  
 - Real-world Business Case Analysis  
