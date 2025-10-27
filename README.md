@@ -27,7 +27,7 @@ From analyzing successful rides to identifying cancellation trends — this proj
 | Category | Tools Used |
 |-----------|-------------|
 | Database | PostgreSQL |
-| Query Tool | pgAdmin / DBeaver |
+| Query Tool | pgAdmin |
 | Language | SQL |
 | Data Source | Excel File |
 | Analysis Type | Descriptive & Diagnostic Analysis |
